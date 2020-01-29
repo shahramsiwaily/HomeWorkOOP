@@ -13,7 +13,7 @@ public class OOP_Homework1 {
         int p=Integer.parseInt(w);
         int d=Integer.parseInt(e);
         p=p+d;
-        JOptionPane.showMessageDialog(null, "Wellcome "+w+" The sum is "+p);
+        JOptionPane.showMessageDialog(null, "Wellcome "+s+" The sum is "+p);
        
     }
     
